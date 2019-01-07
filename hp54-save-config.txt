@@ -1,0 +1,1 @@
+pscp -scp -l USERNAME -pw PASSWORD -2 192.168.100.1:cfg/running-config c:\switch.cfg
